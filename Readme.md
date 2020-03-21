@@ -1,1 +1,1 @@
-This is a computer vision repo
+This is a computer vision repository based on GLuon mxnet
